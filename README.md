@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🏅GIT STATS
 ### 📊 Preetham M R 🙋
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajgn7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PreethamMR-code&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreethamMR-code&theme=tokyonight" height="140" />
