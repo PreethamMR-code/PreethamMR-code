@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajgn7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivrajgn7&theme=tokyonight" height="140" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivrajgn7&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreethamMR-code&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PreethamMR-code&theme=tokyonight" height="140" />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivrajgn7&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivrajgn7&theme=tokyonight&utcOffset=5.5" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreethamMR-code&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreethamMR-code&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
 
