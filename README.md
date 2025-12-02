@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🏅GIT STATS
-### 📊 GitHub Profile Summary
+### 📊 Preetham M R 🙋
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajgn7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
