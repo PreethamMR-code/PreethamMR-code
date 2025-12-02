@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🏅GIT STATS
+### 📊 GitHub Profile Summary
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajgn7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PreethamMR-code&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamMR-code&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivrajgn7&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivrajgn7&theme=tokyonight" height="140" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivrajgn7&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivrajgn7&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
 
