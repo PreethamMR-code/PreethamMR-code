@@ -1,34 +1,26 @@
-## Hi there 👋
+💫 Hi there! I'm Preetham M R 👋
+🚀 Passionate Developer | Java | Web Development | Full-Stack Learner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethamMR-code&label=Profile%20views&color=blue&style=flat" alt="preethammr-code" /> </p>
+🔗 Connect with Me
+<p align="left"> <a href="https://linkedin.com/in/preetham-m-r-5339b3277" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" /> </a> </p>
+🌱 Currently Learning
 
+✔️ Spring Framework
+✔️ Full-Stack Development
+✔️ Advanced Java Concepts
 
-**PreethamMR-code/PreethamMR-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 How to Reach Me
 
-Here are some ideas to get you started:
+📧 preethampreetham560@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠 Languages & Tools
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/> </p>
+🏅 GitHub Stats
+📌 Profile Summary
 
-🏅GIT STATS
-### 📊 Preetham M R 🙋
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PreethamMR-code&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreethamMR-code&theme=tokyonight" height="140" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PreethamMR-code&theme=tokyonight" height="140" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreethamMR-code&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreethamMR-code&theme=tokyonight&utcOffset=5.5" height="150" />
-</p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PreethamMR-code&" alt="PreethamMR-code" /></p>
-
+📌 Languages
+<p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreethamMR-code&theme=tokyonight" height="140" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PreethamMR-code&theme=tokyonight" height="140" /> </p>
+📌 Stats
+<p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreethamMR-code&theme=tokyonight" height="150" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreethamMR-code&theme=tokyonight&utcOffset=5.5" height="150" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethamMR-code&theme=tokyonight" /> </p>
