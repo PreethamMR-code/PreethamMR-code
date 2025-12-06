@@ -1,6 +1,5 @@
-💫 Hi there! I'm Preetham M R 👋
-🚀 Passionate Developer | Java | Web Development | Full-Stack Learner
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethamMR-code&label=Profile%20views&color=blue&style=flat" alt="preethammr-code" /> </p>
+<p align="center">✨ Hi, I'm <b>Preetham M R</b> 👋</p>
+<p align="center"> <img src="https://i.gifer.com/origin/40/40f7a3e9cbaf03d5ca6994c7e91b0615_w200.gif" width="250"/> </p> <h3 align="center">🚀 Passionate Developer | Java | Web Development | Full-Stack Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PreethamMR-code&label=Profile%20views&color=blue&style=flat" alt="profile views" /> </p>
 🔗 Connect with Me
 <p align="left"> <a href="https://linkedin.com/in/preetham-m-r-5339b3277" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" /> </a> </p>
 🌱 Currently Learning
