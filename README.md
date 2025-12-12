@@ -22,4 +22,5 @@
 📌 Stats
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreethamMR-code&theme=tokyonight" height="150" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreethamMR-code&theme=tokyonight&utcOffset=5.5" height="150" /> </p>
 🔥 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethamMR-code&theme=tokyonight" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=PreethamMR-code&show=streaks&theme=tokyonight" />
+
