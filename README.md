@@ -22,5 +22,5 @@
 📌 Stats
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreethamMR-code&theme=tokyonight" height="150" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreethamMR-code&theme=tokyonight&utcOffset=5.5" height="150" /> </p>
 🔥 Contribution Streak
-
+[![GitHub Streak]https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats
 
