@@ -27,7 +27,7 @@
 </div>
 
 ## 🌱 Currently Learning
-- ✔️ Spring Framework  
+- ✔️ Spring Framework  | JPA
 - ✔️ Full-Stack Development  
 - ✔️ Advanced Java Concepts  
 
@@ -69,4 +69,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PreethamMR-code&theme=tokyonight&cachebuster=1"/>
 </p>
+
 
