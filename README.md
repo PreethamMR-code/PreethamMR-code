@@ -27,7 +27,7 @@
 </div>
 
 ## 🌱 Currently Learning
-- ✔️ Spring Framework  | JPA | Hibernate
+- ✔️ Spring Framework | Spring MVC  | JPA | Hibernate
 - ✔️ Full-Stack Development  
 - ✔️ Advanced Java Concepts  
 
