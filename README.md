@@ -27,7 +27,8 @@
 </div>
 
 ## 🌱 Currently Learning
-- ✔️ Spring Framework | Spring MVC  | JPA | Hibernate, 
+- ✔️ Spring Framework | Spring MVC  | JPA | Hibernate
+- Building scalable **Java Spring MVC applications
 - ✔️ Full-Stack Development, 
 - ✔️ Advanced Java Concepts  
 
