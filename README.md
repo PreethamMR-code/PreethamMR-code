@@ -72,4 +72,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PreethamMR-code&theme=tokyonight&cachebuster=1"/>
 </p>
 
+## 🎯 Career Goal
+
+To become a **Backend / AI Systems Engineer** building scalable systems using **Java, Cloud and AI technologies**.
 
