@@ -76,3 +76,8 @@
 
 To become a **Backend / AI Systems Engineer** building scalable systems using **Java, Cloud and AI technologies**.
 
+## ⚡ Fun Facts
+
+- I enjoy building **automation tools and smart systems**
+- 
+
