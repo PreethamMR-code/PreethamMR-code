@@ -79,5 +79,7 @@ To become a **Backend / AI Systems Engineer** building scalable systems using **
 ## ⚡ Fun Facts
 
 - I enjoy building **automation tools and smart systems**
-- 
+- Passionate about **AI + Backend + Cloud**
+- Always experimenting with **new technologies**
+- Love solving **real-world problems with code**
 
