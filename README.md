@@ -10,13 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=PreethamMR-code&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
 
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/PreethamMR-code?label=Followers&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/PreethamMR-code?label=Stars&style=for-the-badge)
-
-</div>
-
 
 ## 🔗 Connect with Me
 <div align="center">
