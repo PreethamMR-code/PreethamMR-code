@@ -47,11 +47,6 @@
 
 ## 🏅 GitHub Stats
 
-### 📌 Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreethamMR-code&theme=tokyonight" height="140"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PreethamMR-code&theme=tokyonight" height="140"/>
-</p>
 
 ### 📌📊 GitHub Stats
 <p align="center">
