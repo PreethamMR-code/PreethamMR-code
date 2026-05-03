@@ -140,8 +140,7 @@ To become a **Backend / AI Systems Engineer** building scalable systems using **
 * 🔹 Learn **AWS / Docker**
 * 🔹 Explore **AI integrations**
 *   To become a tech lead in the company
-
-*   
+ 
 
 ---
 
