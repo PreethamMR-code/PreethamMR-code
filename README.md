@@ -131,8 +131,6 @@ To become a **Backend / AI Systems Engineer** building scalable systems using **
 * 🗄 Database Design (JPA/Hibernate)
 * 🔐 Security & Role Management
 * 🚀 Real-world Project Development
-
-
 ---
 
 ## 🚀 Future Goals
