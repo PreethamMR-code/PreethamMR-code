@@ -138,7 +138,7 @@ To become a **Backend / AI Systems Engineer** building scalable systems using **
 * 🔹 Build REST APIs using **Spring Boot**
 * 🔹 Learn **AWS / Docker**
 * 🔹 Explore **AI integrations**
-*   To become a tech lead in the company
+* 🔹 To become a tech lead in the company
 ---
 
 ## ⭐ Fun Facts
